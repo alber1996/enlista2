@@ -1,0 +1,41 @@
+body{
+	background-color: darkgrey;
+}
+.clear{
+  padding-bottom: 30px;
+}
+.prin{
+	background-color: lightskyblue;
+	padding-bottom: 5%;
+}
+.sec{
+	background-color: white;
+	text-align: center;
+}
+.footer{
+	background-color: darkgrey;
+	color:white;
+	font-family: 'Kalam', cursive;
+}
+div>h2,legend{
+	font-family: 'Love Ya Like A Sister', cursive;
+}
+p{
+	font-family: 'Kalam', cursive;
+}
+
+.logo{
+	width: 25%;
+	margin-top: 7%;
+	margin-left: 33%;
+	margin-bottom: 7%;
+}
+.input_lista {
+	border: none;
+	background-color: whitesmoke;
+}
+@media screen and (max-width: 700px){
+  .logo{
+	width: 50%;
+  }
+}
